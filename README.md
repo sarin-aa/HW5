@@ -1,2 +1,6 @@
+ HEAD
 # HW6
 HW6.code
+
+# HW5
+669a425dd7c547f600c98cfcb18fb83b9123e639
